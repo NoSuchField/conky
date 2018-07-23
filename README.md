@@ -1,5 +1,4 @@
 # conky
-conky config
 
 ## PREVIEW
 
